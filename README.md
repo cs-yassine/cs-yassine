@@ -8,33 +8,27 @@ Software Engineer passionate about **AI**, **full-stack development**, and **mic
 I build intelligent systems, modern web apps, and cloud-native architectures.
 
 I work mainly with:
-- 🤖 **AI & ML** (LLMs, RAG, Deep Learning)  
-- 🏗️ **Backend** (Spring Boot, Django, Node.js)  
-- 🌐 **Frontend** (React, Angular, Next.js)  
-- ☁️ **Cloud & DevOps** (AWS, Docker, Kubernetes)  
-- 🔗 **Distributed Systems & Microservices**
+- 🤖 **AI & Machine Learning:**  
+  Generative AI, LLMs, RAG, Deep Learning, CNNs, Keras, TensorFlow, PyTorch  
+
+- 🏗️ **Backend Development:**  
+  Java, Spring Boot, Python, Django, Node.js, Express.js, Microservices, Distributed Systems, OOP, JUnit, Testing  
+
+- 🌐 **Frontend Development:**  
+  React, Angular, Next.js, TypeScript, JavaScript  
+
+- 🗄️ **Data & Databases:**  
+  MySQL, MongoDB, Redis, Neo4j, Kafka, PL/SQL  
+
+- ☁️ **Cloud & DevOps:**  
+  AWS, Docker, Kubernetes, GitHub Actions, Terraform, Ansible, Git  
+
+- 🔌 **AI Tooling, Protocols & Automation:**  
+  LangChain, HuggingFace, MCP, RAG pipelines, CI/CD  
+
 
 ---
-
-## 🛠️ Tech Stack
-
-### **Languages & Frameworks**
-`Java` `Python` `TypeScript` `C`  
-`Spring Boot` `Django` `React` `Angular` `Next.js`  
-`Keras` `TensorFlow` `PyTorch` `LangChain`
-
-### **Databases & Data**
-`MySQL` `MongoDB` `Redis` `Neo4j` `Kafka`
-
-### **AI / Machine Learning**
-`Generative AI` `RAG` `Deep Learning` `Machine Learning`
-
-### **Cloud & DevOps**
-`AWS` `Docker` `Kubernetes` `GitHub Actions`  
-`Ansible` `Terraform`
-
----
-- 🎓 Certificates: AWS Cloud Foundations, Java, Software Development
+- 🎓 Certificates: AWS Cloud Foundations, ITS Java, ITS Software Development
 ---
 
 ## 📫 Contact Me
