@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yassine Khefifi</h1>
 <h3 align="center">Software Engineer • AI & Full-Stack Developer</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yassine-khefifi/">LinkedIn</a> •
-  <a href="https://github.com/cs-yassine">GitHub</a> •
-  <b>Nabeul, Tunisia</b>
-</p>
-
 ---
 
 ## 🚀 About Me  
