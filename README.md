@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yassine Khefifi</h1>
-<h3 align="center">Software Engineer • AI & Full-Stack Developer • Problem Solver</h3>
+<h3 align="center">Software Engineer • AI & Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yassine-khefifi/">LinkedIn</a> •
@@ -10,14 +10,14 @@
 ---
 
 ## 🚀 About Me  
-Software Engineer passionate about **AI**, **microservices**, and **full-stack development**.  
-I love building intelligent systems, experimenting with LLMs, and designing scalable architectures.
+Software Engineer passionate about **AI**, **full-stack development**, and **microservices**.  
+I build intelligent systems, modern web apps, and cloud-native architectures.
 
-I enjoy creating solutions that mix:
-- 🤖 **AI & Machine Learning**
-- 🏗️ **Backend engineering (Spring Boot, Node.js, Django)**
-- 🌐 **Frontend apps (React, Angular, Next.js)**
-- ☁️ **Cloud & DevOps (AWS, Docker, Kubernetes, GitHub Actions)**  
+I work mainly with:
+- 🤖 **AI & ML** (LLMs, RAG, Deep Learning)  
+- 🏗️ **Backend** (Spring Boot, Django, Node.js)  
+- 🌐 **Frontend** (React, Angular, Next.js)  
+- ☁️ **Cloud & DevOps** (AWS, Docker, Kubernetes)  
 - 🔗 **Distributed Systems & Microservices**
 
 ---
@@ -32,62 +32,15 @@ I enjoy creating solutions that mix:
 ### **Databases & Data**
 `MySQL` `MongoDB` `Redis` `Neo4j` `Kafka`
 
-### **AI / ML**
-`LLMs` `RAG` `Deep Learning` `Machine Learning`  
+### **AI / Machine Learning**
+`Generative AI` `RAG` `Deep Learning` `Machine Learning`
 
 ### **Cloud & DevOps**
 `AWS` `Docker` `Kubernetes` `GitHub Actions`  
 `Ansible` `Terraform`
 
 ---
-
-## 🔥 Featured Projects
-
-### 🦷 **SmartCeph – AI-Powered Dental Landmark Detection**
-- Web app for cephalometric analysis  
-- 🌟 Built a CNN (ResNet-based) with **87% accuracy**  
-- Tech: *React, Django, MongoDB, Python, Keras, TensorFlow, PyTorch*
-
-### 🗳️ **Blockchain Voting System**
-- Decentralized, tamper-proof election platform  
-- Tech: *React, Node.js, Express.js, MongoDB, Solidity*
-
-### 🔌 **MCP Client-Server – AI Tooling Protocol**
-- Full TypeScript MCP implementation  
-- Dynamic tool discovery & bidirectional communication  
-- Tech: *TypeScript, Node.js*
-
-### 🌫️ **CO₂ Prediction Challenge**
-- Carbon emission forecasting using satellite data  
-- Tech: *Python, sklearn, Pandas, NumPy*
-
-### 🤝 **NexusPro – Inter-Company Collaboration Platform** (PFA 2025)
-- AI-based business partner matching  
-- Microservices architecture  
-- Tech: *Java 17, Spring Boot, NextJS, Python*
-
----
-
-## 💼 Experience
-
-### **AI Engineer Intern — AI4Med (2024)**
-- Built an intelligent RAG chatbot using research papers  
-- Fine-tuned LLMs for domain-specific accuracy  
-- Used *HuggingFace, LangChain, OpenAI API*
-
-### **Software Engineer Intern — DentalConnect (2024)**
-- Developed CRM module for dental clinics  
-- Integrated interactive maps with Leaflet.js  
-- Tech: *Angular, Spring Boot, Microservices*
-
----
-
-## 🏆 Hackathons & Achievements
-- 🥇 **AI4Med Internship**
-- 🌍 **UmojaHack Africa 2023**
-- ⚙️ **DevFest Sousse Hackathon**
 - 🎓 Certificates: AWS Cloud Foundations, Java, Software Development
-
 ---
 
 ## 📫 Contact Me
